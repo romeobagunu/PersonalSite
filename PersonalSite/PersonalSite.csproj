@@ -132,6 +132,11 @@
     <Content Include="assets\vendor\swiper\swiper-bundle.min.css" />
     <Content Include="assets\vendor\swiper\swiper-bundle.min.js" />
     <Content Include="assets\vendor\waypoints\noframework.waypoints.js" />
+    <Content Include="contact.html" />
+    <Content Include="about.html" />
+    <Content Include="portfolio.html" />
+    <Content Include="classmates.html" />
+    <Content Include="resume.html" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
     <Content Include="_archive\Kelly\about.html" />
