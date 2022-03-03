@@ -1,0 +1,9 @@
+﻿.classmate-img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+#classmates-section {
+    padding: 60px 0;
+}
